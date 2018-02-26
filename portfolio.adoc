@@ -1,0 +1,219 @@
+[[andreas-gajdosik]]
+= Andreas Gajdosik: Portfolio
+:icons:
+:imagesdir: src/img
+:toc: macro
+:toc-title:
+:toclevels: 2
+:onlineportfolio: link:http://andreas-gajdosik.tumblr.com/[andreas-gajdosik.tumblr.com]
+
+toc::[]
+
+== 2018
+
+[[nomin]]
+=== Nomin
+
+Nomin (2017-2018) is project in progress on the edge of software, institutional critique and collective performance.
+Its main goal is to help artists from weakened social groups (students, pregnant artists, those who live outside big centers, easterners) with acceleration of their careers.
+
+For this purpose I have created an open source GUI application for Linux, Mac and Windows called Nomin which provides its users the ability of sending fake emails from addresses of famous curators to the mailboxes of selected galleries or other institutions.
+Thus the users of Nomin can nominate or reccommend themself from mouths of the gate keepers as if they really were "the lucky ones".
+Email may draw an attention of gallery and lead for proposal of exhibition term.
+On the other hand if the email is recognized as fake, it may be seen negatively by the gallery.
+In this case however the aspect of Nomin as an institutional critique takes place and the failed try has to be understood only as part of an artistic collaborative performance.
+
+Nomin is meant to be an open for collaboration and community friendly project.
+Its source code, documentation and latest releases live on link:https://github.com/nomin-project/nomin[github.com/nomin-project/nomin], where bugs, questions or feature requests can be submitted.
+More information about Nomin is also available on its site link:www.nomin.cloud[https://www.nomin.cloud].
+Several workshops for students and an exhibition "Do It Yourself" at Faculty of Art and Design in Usti nad Labem was held as part of the Nomin project.
+
+.Nomin, screenshot of application, 2015
+image::nomin/1.jpg[, 650]
+.Nomin, welcome webpage, 2015
+image::nomin/2.jpg[, 650]
+.Nomin, webpage - users of Nomin, 2015
+image::nomin/3.jpg[, 350]
+
+<<<
+== 2017
+
+[[take-away]]
+=== Take Away
+
+Take Away (2017) is a gallery project which consisted of 330 criminal complaints for incitement of hatred.
+Criminal complaints were automatically generated with all needed legal reasoning and filled with names and actual citations of users who aggressively commented on anti-islamic or other far-right Facebook pages.
+The visitors could freely search and read through the complaints and take whichever they want, however they were not directly asked in any way to submit them.
+
+Some visitors understood this project as a symbolic gesture or as a possibility to get some insight into czech extremistic scene.
+Some of them however when they were confronted with hundreds of dangerous and/or completely disgusting comments choosed to submit the complaint to the police.
+The project played with the nuances in personal responsibility and the ethical aspects of surveillance.
+What felt as spying for ones was defense of democratic society for the others.
+
+Code for this project was written by me as a part of the work.
+Its generalized form designated for easy public use is open-sourced and can be downloaded from github.com/agajdosi/fblament.
+This code does not contain original pages which were searched nor the template text of the criminal complaints, but can be used for mining of social networks and as a basis for creating a similar end project as Take Away.
+
+.Take Away, 2017. First pages containing optional fields for name and address of submitter and complete legal reasoning.
+image::take-away/1.jpg[, 600, 600]
+.Take Away, 2017. Latter pages containing citations and links for the actual placement of comments on Facebook.
+image::take-away/2.jpg[, 1000, 1000]
+.Take Away, 2017. Installation solution on coridor.
+image::take-away/3.jpg[, 1000, 1000]
+.Take Away, 2017. Visitors reading the complaints.
+image::take-away/4.jpg[, 1000, 1000]
+.Take Away, 2017. Installation solution on table.
+image::take-away/5.jpg[, 1000, 1000]
+.Take Away, 2017. Negative reaction from far-right server: "Havel-like Cattle has gestapo office at Faculty of Fine Arts in Brno; the exhibitions of police informers spying on critics of islam."
+image::take-away/6.jpg[, 1000, 1000]
+.Take Away, 2017. Negative reaction from far-right server: "Czech multicultural fucks has office of gestapo on Faculty of Fine Arts in Brno."
+image::take-away/7.jpg[, 1000, 1000]
+
+
+<<<
+[[mailbox-for-feedback]]
+=== Mailbox for Feedback
+I have installed a mailbox on stairs near main classrooms of Faculty of Fine Arts in Brno.
+It asks employees, students and visitors to write down their ideas on what is and what is not working well on the faculty.
+Even though the mailbox was installed as a guerilla act the text on it used official language and looked like it was realized by the faculty.
+Later I have sent to the Dean a letter containg keys for the mailbox and also stating: ‘I thought it could be useful, so I did it.’
+The box is still on its place in 2018, its content is being picked up once a time.
+
+.Mailbox for Feedback, 2017.
+image::mailbox-for-feedback/1.jpg[, 500]
+.Mailbox for Feedback, 2017.
+image::mailbox-for-feedback/2.jpg[, 250]
+
+<<<
+[[sauna]]
+=== Sauna / What Dean promised I am doing
+As part of pre-election promises for both terms the current dean of Faculty of Fine Arts promised a school sauna for students and employees of faculty.
+However this populist promise was never realized.
+To react I took his promise seriously and tried my best…
+Sauna was operating from January 2017 to March 2017, freely open to all students, employees and visitors of faculty.
+
+.Sauna, 2017. Plastic cube containing electric kettles, towel hanger and a visitor.
+image::sauna/1.jpg[, 400]
+.Sauna, 2017. Relaxation zone, loungers, hanger and barrel with icy water.
+image::sauna/2.jpg[, 550]
+
+<<<
+== 2016
+
+
+[[mail-from-ondracka]]
+=== Mail from Mr. Ondracka
+
+Using custom bash script and telnet I have sent fake mail to vast majority of students at Faculty of Fine Arts.
+The mail looked like if it was from Vice-Dean for student affairs Pavel Ondracka: it has his email address in the header, used his style of language and welcomed all students in new building of FFA.
+
+However it also announced several changes in the organozation of the study and faculty.
+Changes were before debated in non-official DIY student-run "Studio of Pavel Ondracka" which we started in 2014.
+Some proposed changes were also based on reccomendations in link:https://www.ffa.vutbr.cz/studium/zahranicni-oddeleni/elia/elia-report-en-pdf-p56940[report] of The European League of Institutes of the Arts.
+Even though the report was nearly 9 year old most reccommendations were not yet implemented.
+And so in the email we have announced the changes as a done thing, which is starting in upcomming semester.
+Some of them were:
+
+- creation of centralised mailing list to improve and accelerate communication of important topics and announcements,
+- cooperation with other faculties at Brno University of Technology, adding 17 already existing lectures from other faculties to FFA, for example: Color science and technology, Structures and properties of materials, Practical robotics and computer vision, and more,
+- introduction of short 1 month studio internships to support students in trying other studios and experimenting more
+- autonomous student-run space and lecture room
+- support of studios with 100EUR of "lecture money" so that each studio can invite a guest for lecture every semester
+
+Changes were taken positively by students.
+Some of them even called to the office to register newly available lectures.
+The enthusiasm however ended soon when Vice-Dean announced the email was just fake and that even though he likes some ideas, nothing is going to change.
+
+.Mail from Onracka, 2016. Screenshot of the email in the school mailbox.
+image::mail-from-ondracka/1.jpg[, 600]
+
+<<<
+[[narodni-liga]]
+=== NarodniLiga.cz
+Narodniliga.cz/NationalLeague.cz (2016) is a fake web of czech anti-islamic movement.
+It gathers data from Facebook groups which are focused against refugees and islam and makes daily, weekly and monthly rankings.
+Those who were commenting most are then winners of the league. 
+
+However what on on first sight looks like a classic right wing web page - colored with tricolora - later gives unpleasant image of czech anti-islamic movement.
+The page is full of real comments whose authors sends other people to gas, who wish them drowning in sea, full of vulgarisms etc.
+Despite the fact how quite the movement was looking in 2017, hundreds of comments were still produced every day.
+
+.NarodniLiga.cz, 2016. Welcome page with daily random quote: "You finish, mr. Sobotka (Czech ex prime minister), I will vote for Workers Party of Social Justice (neonazi party)." 
+image::national-league-cz/1.jpg[, 1000, 1000]
+.NarodniLiga.cz, 2016. Monthly leaderboard of most commenting users. 
+image::national-league-cz/2.jpg[, 1000, 1000]
+.NarodniLiga.cz, 2016. Graph - Facebook pages with most comments.
+image::national-league-cz/3.jpg[, 1000, 1000]
+
+<<<
+== 2015
+
+[[rumours-to-midi]]
+=== Rumours to MIDI
+Rumours to MIDI (2015) is a custom program written in Python.
+It scans Twitter for selected words and in real time it generates MIDI notes.
+Thus it can be used to produce strange rhytms or melodies from information all around the world.
+
+.Rumours to MIDI, screenshot of program, 2015
+image::rumours-to-midi/1.jpg[, 400]
+
+
+<<<
+[[tweet-coding]]
+=== Tweet-coding performances
+Performances with group Pavel Ondracka which used data from Twitter to change parameters of sound synthesizers.
+Through prepared system of commands every spectator could change the musical output.
+
+.Tweet-coding, screenshot of PureData patch, 2015
+image::tweet-coding/3.jpg[,350]
+.Tweet-coding, screenshot of commands at Twitter, 2015
+image::tweet-coding/2.jpg[,350]
+.Tweet-coding, command structure for particular performance, 2015
+image::tweet-coding/1.jpg[,350]
+
+
+<<<
+[[dusk]]
+=== Dusk /Simulation 1/
+Dusk /Simulation 1/ is a video of shopping mall interior from which were removed all moving objects.
+Without those in hurry the resting and waiting persons, who contradicts the logic of shopping mall are shown and amplified.
+The removal was done automatically in real time with custom program written in C++ with library OpenFrameworks.
+Original plan was to provide a live stream from shopping mall, but this was refused by its managment.
+
+.Dusk /Simulation 1/, screenshot, 2015
+image::dusk/1.jpg[Dusk - screenshot, 1000]
+.Dusk /Simulation 1/, screenshot, 2015
+image::dusk/2.jpg[Dusk - screenshot, 1000]
+
+
+<<<
+== 2014
+
+[[as-i-was-seen]]
+=== As I was seen
+As I was seen (2014) is a series of 8 auto-portraits with use of traffic cameras around Brno.
+With camera refresh rate of 1 shot per minute and 2 to 3 minutes delay before shot is available online the photo shoot quickly turned into a strange public ritual.
+
+.As I was seen 2
+image::as-i-was-seen/2.jpg[selfie on crossroad, 450, 450]
+.As I was seen 3
+image::as-i-was-seen/3.jpg[selfie on crossroad, 450, 450]
+.As I was seen 7
+image::as-i-was-seen/7.jpg[selfie on crossroad, 550, 550]
+.As I was seen 8
+image::as-i-was-seen/8.jpg[selfie on crossroad, 550, 550]
+
+
+<<<
+[[one-hour-of-work]]
+=== One Hour of Work
+One Hour of Work (2014) is series of 3 photographs.
+The photographs do not only refer working author or his graphical card on visual basis but also on capitalist level: earned money were used for printing of the actual pictures.
+Thus the more earning work, the bigger photography.
+
+.One Hour of Work no.1 (70CZK), B&W digital photography, 21x30cm, 2014
+image::one-hour-of-work/1.jpg[selfie on crossroad, 500]
+.One Hour of Work no.2 (200CZK), B&W digital photography, 30x45cm, 2014
+image::one-hour-of-work/2.jpg[selfie on crossroad, 1000]
+.One Hour of Work of Twenty Hours of Work (3CZK), B&W digital photography, 9x6cm, 2014
+image::one-hour-of-work/3.jpg[selfie on crossroad, 1000]
