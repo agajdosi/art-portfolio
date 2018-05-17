@@ -28,11 +28,11 @@ Its source code, documentation and latest releases live on link:https://github.c
 More information about Nomin is also available on its site link:www.nomin.cloud[https://www.nomin.cloud].
 Several workshops for students and an exhibition "Do It Yourself" at Faculty of Art and Design in Usti nad Labem was held as part of the Nomin project.
 
-.Nomin, screenshot of application, 2015
+.Nomin, screenshot of application, 2018.
 image::nomin/1.jpg[, 650]
-.Nomin, welcome webpage, 2015
+.Nomin, welcome webpage, 2018.
 image::nomin/2.jpg[, 650]
-.Nomin, webpage - users of Nomin, 2015
+.Nomin, webpage - users of Nomin, 2018.
 image::nomin/3.jpg[, 350]
 
 <<<
@@ -194,13 +194,13 @@ image::dusk/2.jpg[Dusk - screenshot, 1000]
 As I was seen (2014) is a series of 8 auto-portraits with use of traffic cameras around Brno.
 With camera refresh rate of 1 shot per minute and 2 to 3 minutes delay before shot is available online the photo shoot quickly turned into a strange public ritual.
 
-.As I was seen 2
+.As I was seen 2, 2014
 image::as-i-was-seen/2.jpg[selfie on crossroad, 450, 450]
-.As I was seen 3
+.As I was seen 3, 2014
 image::as-i-was-seen/3.jpg[selfie on crossroad, 450, 450]
-.As I was seen 7
+.As I was seen 7, 2014
 image::as-i-was-seen/7.jpg[selfie on crossroad, 550, 550]
-.As I was seen 8
+.As I was seen 8, 2014
 image::as-i-was-seen/8.jpg[selfie on crossroad, 550, 550]
 
 
