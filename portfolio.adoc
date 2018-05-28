@@ -4,15 +4,80 @@
 :imagesdir: src/img
 :toc: macro
 :toc-title:
-:toclevels: 2
+:toclevels: 3
 :onlineportfolio: link:http://andreas-gajdosik.tumblr.com/[andreas-gajdosik.tumblr.com]
 
 toc::[]
 
-== 2018
+== CV
+
+MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
+
+=== Education
+
+- 2016-2018: Brno University of Technology - Faculty of Fine Arts - Intermedia Studio - MgA. Pavel Sterec, Ph.D. +
+- 2012-2016: Brno University of Technology - Faculty of Fine Arts - Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
+
+=== Exhibitions
+* 2017
+** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, Czech Republic
+** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, Czech Republic
+* 2016
+** Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich, Switzerland
+* 2014
+** Digital Subconsciousness, gallery Art, Brno, Czech Republic
+** Waves, interactive installation, cafe Tro3jka, Brno, Czech Republic
+
+=== Group Exhibitions
+* 2017
+** The Last Word, Gallery In:Out, Bratislava, Slovak Republic
+* 2015
+** Exhibition of Painters, gallery of Milos Zeman, Faculty of Fine Arts, Brno, Czech Republic
+** Intuition, Vasulka Chamber, National Gallery of Iceland, Reikjavik, Iceland
+* 2014
+** World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart, Germany
+** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, Czech Republic
+** Musical performance with group Pavel Ondracka, TRIAL 5, Moravian Gallery, Brno, Czech Republic
+* 2013
+** Enterprise, gallery Aula, Faculty of Fine Arts, Brno, Czech Republic
+
+=== Publications and public activity
+* 2018
+** Presentation at (un)conference 'How to Weather The Shrit Storm?', 4AM, Brno, Czech Republic
+** Article 'Hodina mezi mízou a jantarem: Digitální dílo v době své technické dvojjedinosti', Journal of Interactive Media - Join Me, Faculty of Arts, Masaryk University, Brno, Czech Republic
+* 2017
+** Presentation with Studio of Pavel Ondracka, conference 'What to do?', Academy of Fine Arts, Prague, Czech Republic
+** Presentation at Pecha Kucha #20 - Postmoderna, 4AM, Brno, Czech Republic
+* 2015
+** Presentation on topic of 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno, Czech Republic
+
+=== Other activities
+
+* 2016
+** Pavleni - series of student run lectures in Studio of Pavel Ondracka, Faculty of Fine Arts, Brno, Czech Republic - organization of events
+* 2015
+** Connect - series of 3 workshops of creative programming, organization and teaching, Brno, Czech Republic
+** Musical workshop of group Pavel Ondracka, Museums Night, Ceske Budejovice, Czech Republic - teaching, design of DIY instruments 
+* 2013
+** Platform for Intervention of Electronic Media, Brno, Czech Republic - organization
+
+=== Awards
+* 2018
+** Nomination for Prize of the Dean, Faculty of Fine Arts, BUT
+** Nomination for Prize of the Rector, Brno University of Technology
+
+=== Work positions
+- since 2016: Software Quality Engineer for open source projects Minishift and Container Development Kit, Red Hat, Brno, Czech Republic
+
+<<<
+== Portfolio
+
+Latest release of this document can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf].
+
+=== 2018
 
 [[nomin]]
-=== Nomin
+==== Nomin
 
 Nomin (2017-2018) is project in progress on the edge of software, institutional critique and collective performance.
 Its main goal is to help artists from weakened social groups (students, pregnant artists, those who live outside big centers, easterners) with acceleration of their careers.
@@ -25,21 +90,21 @@ In this case however the aspect of Nomin as an institutional critique takes plac
 
 Nomin is meant to be an open for collaboration and community friendly project.
 Its source code, documentation and latest releases live on link:https://github.com/nomin-project/nomin[github.com/nomin-project/nomin], where bugs, questions or feature requests can be submitted.
-More information about Nomin is also available on its site link:www.nomin.cloud[https://www.nomin.cloud].
+More information about Nomin is also available on its site link:https://www.nomin.cloud[www.nomin.cloud].
 Several workshops for students and an exhibition "Do It Yourself" at Faculty of Art and Design in Usti nad Labem was held as part of the Nomin project.
 
 .Nomin, screenshot of application, 2018.
-image::nomin/1.jpg[, 650]
+image::nomin/1.jpg[, 500]
 .Nomin, welcome webpage, 2018.
 image::nomin/2.jpg[, 650]
 .Nomin, webpage - users of Nomin, 2018.
 image::nomin/3.jpg[, 350]
 
 <<<
-== 2017
+=== 2017
 
 [[take-away]]
-=== Take Away
+==== Take Away
 
 Take Away (2017) is a gallery project which consisted of 330 criminal complaints for incitement of hatred.
 Criminal complaints were automatically generated with all needed legal reasoning and filled with names and actual citations of users who aggressively commented on anti-islamic or other far-right Facebook pages.
@@ -72,7 +137,7 @@ image::take-away/7.jpg[, 1000, 1000]
 
 <<<
 [[mailbox-for-feedback]]
-=== Mailbox for Feedback
+==== Mailbox for Feedback
 I have installed a mailbox on stairs near main classrooms of Faculty of Fine Arts in Brno.
 It asks employees, students and visitors to write down their ideas on what is and what is not working well on the faculty.
 Even though the mailbox was installed as a guerilla act the text on it used official language and looked like it was realized by the faculty.
@@ -86,7 +151,7 @@ image::mailbox-for-feedback/2.jpg[, 250]
 
 <<<
 [[sauna]]
-=== Sauna / What Dean promised I am doing
+==== Sauna / What Dean promised I am doing
 As part of pre-election promises for both terms the current dean of Faculty of Fine Arts promised a school sauna for students and employees of faculty.
 However this populist promise was never realized.
 To react I took his promise seriously and tried my best…
@@ -98,11 +163,11 @@ image::sauna/1.jpg[, 400]
 image::sauna/2.jpg[, 550]
 
 <<<
-== 2016
+=== 2016
 
 
 [[mail-from-ondracka]]
-=== Mail from Mr. Ondracka
+==== Mail from Mr. Ondracka
 
 Using custom bash script and telnet I have sent fake mail to vast majority of students at Faculty of Fine Arts.
 The mail looked like if it was from Vice-Dean for student affairs Pavel Ondracka: it has his email address in the header, used his style of language and welcomed all students in new building of FFA.
@@ -129,7 +194,7 @@ image::mail-from-ondracka/1.jpg[, 600]
 
 <<<
 [[narodni-liga]]
-=== NarodniLiga.cz
+==== NarodniLiga.cz
 Narodniliga.cz/NationalLeague.cz (2016) is a fake web of czech anti-islamic movement.
 It gathers data from Facebook groups which are focused against refugees and islam and makes daily, weekly and monthly rankings.
 Those who were commenting most are then winners of the league. 
@@ -146,10 +211,10 @@ image::national-league-cz/2.jpg[, 1000, 1000]
 image::national-league-cz/3.jpg[, 1000, 1000]
 
 <<<
-== 2015
+=== 2015
 
 [[rumours-to-midi]]
-=== Rumours to MIDI
+==== Rumours to MIDI
 Rumours to MIDI (2015) is a custom program written in Python.
 It scans Twitter for selected words and in real time it generates MIDI notes.
 Thus it can be used to produce strange rhytms or melodies from information all around the world.
@@ -160,7 +225,7 @@ image::rumours-to-midi/1.jpg[, 400]
 
 <<<
 [[tweet-coding]]
-=== Tweet-coding performances
+==== Tweet-coding performances
 Performances with group Pavel Ondracka which used data from Twitter to change parameters of sound synthesizers.
 Through prepared system of commands every spectator could change the musical output.
 
@@ -174,7 +239,7 @@ image::tweet-coding/1.jpg[,350]
 
 <<<
 [[dusk]]
-=== Dusk /Simulation 1/
+==== Dusk /Simulation 1/
 Dusk /Simulation 1/ is a video of shopping mall interior from which were removed all moving objects.
 Without those in hurry the resting and waiting persons, who contradicts the logic of shopping mall are shown and amplified.
 The removal was done automatically in real time with custom program written in C++ with library OpenFrameworks.
@@ -187,10 +252,10 @@ image::dusk/2.jpg[Dusk - screenshot, 1000]
 
 
 <<<
-== 2014
+=== 2014
 
 [[as-i-was-seen]]
-=== As I was seen
+==== As I was seen
 As I was seen (2014) is a series of 8 auto-portraits with use of traffic cameras around Brno.
 With camera refresh rate of 1 shot per minute and 2 to 3 minutes delay before shot is available online the photo shoot quickly turned into a strange public ritual.
 
@@ -206,7 +271,7 @@ image::as-i-was-seen/8.jpg[selfie on crossroad, 550, 550]
 
 <<<
 [[one-hour-of-work]]
-=== One Hour of Work
+==== One Hour of Work
 One Hour of Work (2014) is series of 3 photographs.
 The photographs do not only refer working author or his graphical card on visual basis but also on capitalist level: earned money were used for printing of the actual pictures.
 Thus the more earning work, the bigger photography.
@@ -217,3 +282,11 @@ image::one-hour-of-work/1.jpg[selfie on crossroad, 500]
 image::one-hour-of-work/2.jpg[selfie on crossroad, 1000]
 .One Hour of Work of Twenty Hours of Work (3CZK), B&W digital photography, 9x6cm, 2014
 image::one-hour-of-work/3.jpg[selfie on crossroad, 1000]
+
+== Document information
+
+This document was generated automatically using Asciidoctor syntax and asciidoctor-pdf tool. 
+The document and its source code is licensed under MIT licence, feel free to use, copy, modify, merge, publish or distribute it freely.
+You can view the source code or report bugs at: https://github.com/agajdosi/art-portfolio.
+
+Thanks to the authors and commiters of Asciidoctor project: https://github.com/asciidoctor for their wonderfull work.
