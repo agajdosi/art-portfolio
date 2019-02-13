@@ -20,28 +20,26 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Exhibitions
 * 2018
-** Conclusions of Police Investigation, gallery Umakart, Brno
+** Conclusions of Police Investigation, gallery Umakart, Brno, CZ
 * 2017
-** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, Czech Republic
-** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, Czech Republic
+** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, CZ
+** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, CZ
 * 2016
 ** Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich, Switzerland
 * 2014
-** Digital Subconsciousness, gallery Art, Brno, Czech Republic
-** Waves, interactive installation, cafe Tro3jka, Brno, Czech Republic
+** Digital Subconsciousness, gallery Art, Brno, CZ
+** Waves, interactive installation, cafe Tro3jka, Brno, CZ
 
 === Group Exhibitions
 * 2017
 ** The Last Word, Gallery In:Out, Bratislava, Slovak Republic
 * 2015
-** Exhibition of Painters, gallery of Milos Zeman, Faculty of Fine Arts, Brno, Czech Republic
+** Exhibition of Painters, gallery of Milos Zeman, Faculty of Fine Arts, Brno, CZ
 ** Intuition, Vasulka Chamber, National Gallery of Iceland, Reikjavik, Iceland
 * 2014
 ** World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart, Germany
-** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, Czech Republic
-** Musical performance with group Pavel Ondracka, TRIAL 5, Moravian Gallery, Brno, Czech Republic
-* 2013
-** Enterprise, gallery Aula, Faculty of Fine Arts, Brno, Czech Republic
+** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
+** Musical performance with group Pavel Ondracka, TRIAL 5, Moravian Gallery, Brno, CZ
 
 === Collectives
 * 2017-now: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
@@ -50,31 +48,31 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Publications and public activity
 * 2018
-** Presentation at (un)conference 'How to Weather The Shrit Storm?', 4AM, Brno, Czech Republic
-** Article link:http://joinme-muni.cz/data/articles/2018/05/16/5afc5437bcf7a/Hodina%20mezi%20m%C3%ADzou%20a%20jantarem-Digit%C3%A1ln%C3%AD%20d%C3%ADlo%20v%20dob%C4%9B%20sv%C3%A9%20technick%C3%A9%20dvojjedinosti.pdf[Hodina mezi mízou a jantarem: Digitální dílo v době své technické dvojjedinosti], Journal of Interactive Media - JOINME, Faculty of Arts, Masaryk University, Brno, Czech Republic
+** Article link:https://artalk.cz/2018/12/19/konec-pruzkumu-internetove-umeni-v-prechodu-ke-spolecnosti/[The end of the exploration: Internet art in transition to society], Artalk.cz
+** Presentation at (un)conference 'How to Weather The Shrit Storm?', 4AM, Brno, CZ
+** Article link:http://joinme-muni.cz/data/articles/2018/05/16/5afc5437bcf7a/Hodina%20mezi%20m%C3%ADzou%20a%20jantarem-Digit%C3%A1ln%C3%AD%20d%C3%ADlo%20v%20dob%C4%9B%20sv%C3%A9%20technick%C3%A9%20dvojjedinosti.pdf[Hodina mezi mízou a jantarem: Digitální dílo v době své technické dvojjedinosti], Journal of Interactive Media - JOINME, Faculty of Arts, Masaryk University, Brno, CZ
 * 2017
-** Presentation with Studio of Pavel Ondracka, conference 'What to do?', Academy of Fine Arts, Prague, Czech Republic
-** Presentation at Pecha Kucha #20 - Postmoderna, 4AM, Brno, Czech Republic
+** Presentation with Studio of Pavel Ondracka, conference 'What to do?', Academy of Fine Arts, Prague, CZ
+** Presentation at Pecha Kucha 20 - Postmodernity, 4AM, Brno, CZ
 * 2015
-** Presentation on topic of 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno, Czech Republic
+** Presentation on topic of 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno, CZ
 
 === Other activities
 
 * 2016
-** Pavleni - series of student run lectures in Studio of Pavel Ondracka, Faculty of Fine Arts, Brno, Czech Republic - organization of events
+** Pavleni - series of student run lectures in Studio of Pavel Ondracka, Faculty of Fine Arts, Brno, CZ - organization of events
 * 2015
-** Connect - series of 3 workshops of creative programming, organization and teaching, Brno, Czech Republic
-** Musical workshop of group Pavel Ondracka, Museums Night, Ceske Budejovice, Czech Republic - teaching, design of DIY instruments 
+** Connect - 3 workshops of creative programming, organization and teaching, Brno, CZ
+** Musical workshop of group Pavel Ondracka, Museums Night, Ceske Budejovice, CZ - teaching, design of DIY instruments 
 * 2013
-** Platform for Intervention of Electronic Media, Brno, Czech Republic - organization
+** Platform for Intervention of Electronic Media, Brno, CZ - organization
 
 === Nominations
-* 2018
-** Nomination for Prize of the Dean, Faculty of Fine Arts, BUT
-** Nomination for Prize of the Rector, Brno University of Technology
+* 2019
+** Finalist of Jindrich Chalupecky Award
 
 === Work positions
-- since 2016: Software Quality Engineer for open source projects Minishift and Container Development Kit, Red Hat, Brno, Czech Republic
+* since 2016: Software Quality Engineer, open source project Minishift, Red Hat, Brno, CZ
 
 <<<
 == Portfolio
