@@ -1,13 +1,16 @@
-[[andreas-gajdosik]]
-= Andreas Gajdosik: Portfolio
 :icons:
 :imagesdir: src/img
 :toc: macro
-:toc-title:
+:toc-title: Contents
 :toclevels: 3
-:onlineportfolio: link:https://gajdosik.org/[gajdosik.org]
+:title-page:
 
-toc::[]
+[[andreas-gajdosik]]
+= Andreas Gajdosik: Portfolio & CV
+
+
+
+
 
 == CV
 
