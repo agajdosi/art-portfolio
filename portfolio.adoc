@@ -5,7 +5,7 @@
 :toc: macro
 :toc-title:
 :toclevels: 3
-:onlineportfolio: link:http://andreas-gajdosik.tumblr.com/[andreas-gajdosik.tumblr.com]
+:onlineportfolio: link:https://gajdosik.org/[gajdosik.org]
 
 toc::[]
 
@@ -15,6 +15,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Education
 
+- 2019: Doctoral study at FFA BUT, starting at Sept 2019 +
 - 2016-2018: Brno University of Technology - Faculty of Fine Arts - Intermedia Studio - MgA. Pavel Sterec, Ph.D. +
 - 2012-2016: Brno University of Technology - Faculty of Fine Arts - Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
@@ -39,7 +40,6 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 * 2014
 ** World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart, Germany
 ** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
-** Musical performance with group Pavel Ondracka, TRIAL 5, Moravian Gallery, Brno, CZ
 
 === Collectives
 * 2017-now: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
@@ -69,7 +69,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Nominations
 * 2019
-** Finalist of Jindrich Chalupecky Award
+** Finalist of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award]
 
 === Work positions
 * since 2016: Software Quality Engineer, open source project Minishift, Red Hat, Brno, CZ
