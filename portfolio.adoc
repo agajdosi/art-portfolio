@@ -8,19 +8,15 @@
 [[andreas-gajdosik]]
 = Andreas Gajdosik: Portfolio & CV
 
-
-
-
-
 == CV
 
 MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Education
 
-- 2019: Doctoral study at FFA BUT, starting at Sept 2019 +
-- 2016-2018: Brno University of Technology - Faculty of Fine Arts - Intermedia Studio - MgA. Pavel Sterec, Ph.D. +
-- 2012-2016: Brno University of Technology - Faculty of Fine Arts - Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
+- 2019: Doctoral study - Brno University of Technology, Faculty of Fine Arts - doc. MgA. Mikuláš Macháček +
+- 2016-2018: Masters study - Brno University of Technology, Faculty of Fine Arts, Intermedia Studio - MgA. Pavel Sterec, Ph.D. +
+- 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
 === Exhibitions
 * 2018
@@ -73,10 +69,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 === Nominations
 * 2019
 ** Finalist of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award]
-
-=== Work positions
-* since 2016: Software Quality Engineer, open source project Minishift, Red Hat, Brno, CZ
-
+t
 <<<
 == Portfolio
 
