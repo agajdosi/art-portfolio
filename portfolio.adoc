@@ -31,6 +31,8 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 ** Waves, interactive installation, cafe Tro3jka, Brno, CZ
 
 === Group Exhibitions
+* 2019
+** Jindřich Chalupecký Award 2019, Moravian Gallery, Brno, CZ
 * 2017
 ** The Last Word, Gallery In:Out, Bratislava, Slovak Republic
 * 2015
@@ -66,15 +68,31 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 * 2013
 ** Platform for Intervention of Electronic Media, Brno, CZ - organization
 
+<<<
 === Nominations
 * 2019
 ** Finalist of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award]
-t
+
 <<<
 == Portfolio
 
 Latest release of this document can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf].
 
+=== 2019
+
+[mercurie]
+==== Rtutík / Mercurie
+
+In 2019 the Regional Office in Pardubice approved emission exception for Chvaletice power plant.
+The exeption allowed the power plant to emit 300 kilograms of mercury over the normal emission limit.
+During the action days of czech Climate Camp 2019 I have realized a protest performance in the streets of Pardubice.
+Covered in thermofoil I have played huge droplet of mercury flowing through the city and spreading the word about beauties of mercury.
+
+
+.Mercurie, public performance, 2019. (photo Petr Zewlakk Vrabec)
+image::mercurie/1.jpg[, 650]
+
+<<<
 === 2018
 
 [conclusions-of-police-investigation]
@@ -315,4 +333,4 @@ This document was generated automatically using Asciidoctor syntax and asciidoct
 The document and its source code is licensed under MIT licence, feel free to use, copy, modify, merge, publish or distribute it freely.
 You can view the source code or report bugs at: https://github.com/agajdosi/art-portfolio.
 
-Thanks to the authors and commiters of Asciidoctor project: https://github.com/asciidoctor for their wonderfull work.
+Thanks to the authors and commiters of Asciidoctor project: https://github.com/asciidoctor for their wonderful work.
