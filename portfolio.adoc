@@ -19,6 +19,8 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 - 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
 === Exhibitions
+* 2020
+** Seventh Class, collaboration with Barbora Šimková, Gallery Art, Brno, CZ
 * 2018
 ** Conclusions of Police Investigation, gallery Umakart, Brno, CZ
 * 2017
@@ -44,11 +46,14 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 ** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
 
 === Collectives
+* 2019-now: member of artistic group / fake company Global Genocide Inc.
 * 2017-now: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
 * 2015-2017: member of DIY Studio of Pavel Ondracka at FFA VUT (link:https://www.facebook.com/atelierPavlaOndracky?fref=ts[facebook])
 * 2014-2017: member of performative noise music group Pavel Ondracka (link:https://www.facebook.com/PabloOndracka/[facebook], link:https://soundcloud.com/pavel-ondracka[soundcloud], link:https://www.youtube.com/watch?v=6SlaNV7V4-0[youtube])
 
 === Publications and public activity
+* 2019
+** Party-Extinct-Repeat, 3-day long performance with Global Genocide Inc., Terén - Center of Experimental Theater, Brno, CZ
 * 2018
 ** Article link:https://artalk.cz/2018/12/19/konec-pruzkumu-internetove-umeni-v-prechodu-ke-spolecnosti/[The end of the exploration: Internet art in transition to society], Artalk.cz
 ** Presentation at (un)conference 'How to Weather The Shrit Storm?', 4AM, Brno, CZ
@@ -56,20 +61,21 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 * 2017
 ** Presentation with Studio of Pavel Ondracka, conference 'What to do?', Academy of Fine Arts, Prague, CZ
 ** Presentation at Pecha Kucha 20 - Postmodernity, 4AM, Brno, CZ
-* 2015
-** Presentation on topic of 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno, CZ
-
-=== Other activities
-
 * 2016
 ** Pavleni - series of student run lectures in Studio of Pavel Ondracka, Faculty of Fine Arts, Brno, CZ - organization of events
 * 2015
 ** Connect - 3 workshops of creative programming, organization and teaching, Brno, CZ
 ** Musical workshop of group Pavel Ondracka, Museums Night, Ceske Budejovice, CZ - teaching, design of DIY instruments 
+** Presentation on topic of 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno, CZ
 * 2013
 ** Platform for Intervention of Electronic Media, Brno, CZ - organization
 
-<<<
+=== Residencies & Schools
+
+* 2019
+** The Bratislava BAK Winter School, participant, LOM, Bratislava, Slovak Republic
+** New Alphabet School: (Un-)Learning Place, participant, Haus der Kulturen der Welt, Berlin, Germany
+
 === Awards
 * Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019
 
