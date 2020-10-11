@@ -34,6 +34,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Group Exhibitions
 * 2020
+** Sand in the Gears, gallery PLATO Ostrava, CZ
 ** Inhabitated.net, Ústí nad Labem House of Arts, CZ
 * 2019
 ** The Power of the Powerless, Kunsthalle Bratislava, Slovakia
@@ -49,7 +50,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Collectives
 * 2019-now: member of artistic group / fake company Global Genocide Inc.
-* 2017-now: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
+* 2017-2019: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
 * 2015-2017: member of DIY Studio of Pavel Ondracka at FFA VUT (link:https://www.facebook.com/atelierPavlaOndracky?fref=ts[facebook])
 * 2014-2017: member of performative noise music group Pavel Ondracka (link:https://www.facebook.com/PabloOndracka/[facebook], link:https://soundcloud.com/pavel-ondracka[soundcloud], link:https://www.youtube.com/watch?v=6SlaNV7V4-0[youtube])
 
@@ -74,6 +75,8 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 
 === Residencies & Schools
 
+* 2020
+** artistic residency at Czech Centre Bucharest, Romania
 * 2019
 ** The Bratislava BAK Winter School, participant, LOM, Bratislava, Slovak Republic
 ** New Alphabet School: (Un-)Learning Place, participant, Haus der Kulturen der Welt, Berlin, Germany
@@ -88,6 +91,18 @@ Latest release of this document can be seen and downloaded online at: link:https
 
 === 2020
 
+[black-fly-day]
+==== Black Fly Day
+
+Using industrial waste from material bank provided by PLATO I have created two boxes for cultivation of meat flies in the exhibition space.
+Grown-up flies were later released by me in two big shopping malls in the Ostrava city.
+Black Fly Day (2020) is an object/intervention created for the exhibition Sand in the Gears in gallery PLATO Ostrava.
+Video available on https://www.youtube.com/watch?v=aazCogmabVw[youtube].
+
+image::black-flyday/1.png[,600]
+image::black-flyday/4.png[,600]
+
+<<<
 [nejvyzkum]
 ==== Nejvyzkum.cz
 link:https://nejvyzkum.cz[Nejvyzkum.cz]: nejlepší z možných výzkumů (in english: Bestresearch.cz: Best of All Possible Researches) is a subversive online psychological test created in collaboration with Barbora Šimková.
