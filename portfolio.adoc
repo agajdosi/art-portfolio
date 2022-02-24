@@ -10,7 +10,7 @@
 
 == CV
 
-MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
+MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 
 === Education
 
@@ -19,11 +19,15 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 - 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
 === Exhibitions
+* 2022
+** It's in your hands, router.gallery, Berlin, DE
+* 2021
+** App-art 3: Bots of obvia & nomin, Kontext Gallery, Brno, CZ
 * 2020
-** The Best of Possible Researches, collaboration with Barbora Šimková, Vysočina Regional Gallery in Jihlava, CZ
+** The Best of Possible Researches, collaboration with Barbora Šimková, Vysocina Regional Gallery in Jihlava, CZ
 ** Seventh Class, collaboration with Barbora Šimková, Gallery Art, Brno, CZ
 * 2018
-** Conclusions of Police Investigation, gallery Umakart, Brno, CZ
+** Conclusions of Police Investigation, Gallery Umakart, Brno, CZ
 * 2017
 ** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, CZ
 ** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, CZ
@@ -34,9 +38,13 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 ** Waves, interactive installation, cafe Tro3jka, Brno, CZ
 
 === Group Exhibitions
+
 * 2021
+** All Idiots, Meetfactory Gallery, Prague, CZ
+** The More Profiles You Have, The More of a Person You Are, House of Arts Usti nad Labem, CZ
+** The Art of Appreciating, Modern Gallery AVU, Prague, CZ
 ** Unscrupulous, Photogether Gallery, Zlín, CZ
-** Here and now!, with Global Genocide Inc., Brno, CZ
+** Here and now!, with Global Genocide Inc., Brno House of Arts, Brno, CZ
 * 2020
 ** Sand in the Gears, gallery PLATO Ostrava, CZ
 ** Inhabitated.net, Ústí nad Labem House of Arts, CZ
@@ -53,12 +61,17 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 ** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
 
 === Collectives
-* 2019-now: member of artistic group / fake company link:https://global-genocide.com[Global Genocide Inc.]
+* 2019-2021: member of artistic group / fake company link:https://global-genocide.com[Global Genocide Inc.]
 * 2017-2019: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
 * 2015-2017: member of DIY Studio of Pavel Ondracka at FFA VUT (link:https://www.facebook.com/atelierPavlaOndracky?fref=ts[facebook])
 * 2014-2017: member of performative noise music group Pavel Ondracka (link:https://www.facebook.com/PabloOndracka/[facebook], link:https://soundcloud.com/pavel-ondracka[soundcloud], link:https://www.youtube.com/watch?v=6SlaNV7V4-0[youtube])
 
 === Publications and public activity
+* 2021
+** link:https://www.youtube.com/watch?v=8hcvnlCuDqs&t=4s[Cambridge Artalytica: Software art as a tool of psychogeography], online lecture at Faculty of Art and Design UJEP, Usti nad Labem, CZ
+* 2020
+** Curator of link:https://diplomantky.cz/vystava/[Diplomantky.cz] - Faculty of Fine Arts BUT Graduate 2020 Exhibition
+** Coding and co-design of FFA BUT gender-neutral web of graduates link:https://diplomantky.cz[Diplomantky.cz]
 * 2019
 ** Party-Extinct-Repeat, 3-day long performance with Global Genocide Inc., Terén - Center of Experimental Theater, Brno, CZ
 * 2018
@@ -86,12 +99,26 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Brno, Czech Republic.
 ** New Alphabet School: (Un-)Learning Place, participant, Haus der Kulturen der Welt, Berlin, Germany
 
 === Awards
+* Award holder of link:http://www.hlavkovanadace.cz/cinnost_2021.php[Josef Hlavka Award 2021] for young academics
 * Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019
 
 <<<
 == Portfolio
 
 Latest release of this document can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf].
+
+=== 2021
+
+[tauto]
+==== Tauto (Twitter automation toolkit)
+
+Tauto is artistic software for activists and anybody else which allows to spread comments on Twitter.
+It is a command line tool to automate interactions of bot accounts on Twitter via Twitter's graphical user interface (website in browser).
+Tauto is thus capable of interactions which are not available through Twitter API or which could be blocked if used in high volumes via API.
+Exploring the space of evil media it is a sarcastic comment on bot farms, but also a useful piece of software. 
+In accordance with ideas of Arte Útil movement Tauto is functional and can be used to counter the forces of hybrid propaganda by its own means: spreading whatever its user wants.
+
+image::tauto/1.jpg[,600]
 
 === 2020
 
