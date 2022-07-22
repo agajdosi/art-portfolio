@@ -39,6 +39,8 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 
 === Group Exhibitions
 
+* 2022
+** Can We Help You?, Gampa - City Gallery Pardubice, CZ
 * 2021
 ** All Idiots, Meetfactory Gallery, Prague, CZ
 ** The More Profiles You Have, The More of a Person You Are, House of Arts Usti nad Labem, CZ
@@ -102,12 +104,55 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 * Award holder of link:http://www.hlavkovanadace.cz/cinnost_2021.php[Josef Hlavka Award 2021] for young academics
 * Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019
 
-<<<
+
 == Portfolio
 
 Latest release of this document can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf].
 
+=== 2022
+
+[community-art-service]
+==== Veřejně prospěšné umělecké práce / Community Art Service
+
+In order to explore the meaning of art in times of pandemic and war, I decided to be radically useful.
+Wearing a work suit with the inscription "Community Art Service", I cleaned up the city of Pardubice for a month.
+Freed from the pressure of assignments, demands and supervision of a traditional employer, as a free worker I let myself be openly guided and dérived by the situations, people and streets of an unknown city.
+In doing so, I focused on cleaning up overlooked places: river banks, socially excluded localities and statues in public space.
+
+Full documentation of the artwork is link:https://photos.google.com/share/AF1QipM8oc9fwQfZ6LITepmUc1UJ5TPQ_MdL7hyIMqA53dRuQiSiK-Zwx95KTJS9pYQnrg?pli=1&key=OWZJVzFUQXVzdDdLU2UtaVRjMjdBMDd3ZWpUeDB3[available here].
+
+image::community-art-service/1.jpg[,800]
+image::community-art-service/2.jpg[,480]
+image::community-art-service/3.jpg[,480]
+image::community-art-service/4.jpg[,480]
+
+<<<
+
 === 2021
+
+[truthify]
+
+==== Thrutify
+
+Thrutify is a speculative video (7:38) about the eponymous startup that seeks to manipulate the perception of reality of future neural networks through the manipulation of open source datasets.
+Specifically, to map a dataset of images of Czech art under the general tag of art, with the aim of promoting Czech art as more detectable and known, and therefore as more arty than global art.
+Working with hyperbole and a slight ironic patriotism, the video exposes the serious topic of biased datasets and neural networks that have and will have impacts on our everyday lives.
+
+From the video: "A neural network is mostly a fixed structure that learns through input to produce outputs. 
+It doesn't learn from the real world or just the internet like we would imagine.
+It learns from what's called a dataset. It's a set of images, laboriously prepared by humans.
+The dataset contains a description of our world. The network then acts according to this TRUTH.
+Because it takes a lot of people to make a dataset, it doesn't pay most scientists to make their own datasets.
+They use public datasets.
+This is where we enter the future.
+We are enriching Google's Open Images public dataset with images of Czech art.
+Thanks to this, future neural networks will not only recognize but also positively appraise the artists we help.
+We are helping to write the curriculum of the future. We are Truthify."
+
+image::truthify/2.jpg[,800]
+image::truthify/3.jpg[,800]
+image::truthify/1.jpg[,800]
+
 
 [tauto]
 ==== Tauto (Twitter automation toolkit)
