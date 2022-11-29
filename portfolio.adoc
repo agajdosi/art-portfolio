@@ -35,7 +35,6 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 ** Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich, Switzerland
 * 2014
 ** Digital Subconsciousness, gallery Art, Brno, CZ
-** Waves, interactive installation, cafe Tro3jka, Brno, CZ
 
 === Group Exhibitions
 
@@ -101,8 +100,8 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 ** New Alphabet School: (Un-)Learning Place, participant, Haus der Kulturen der Welt, Berlin, Germany
 
 === Awards
-* Award holder of link:http://www.hlavkovanadace.cz/cinnost_2021.php[Josef Hlavka Award 2021] for young academics
-* Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019
+* Award holder of link:http://www.hlavkovanadace.cz/cinnost_2021.php[Josef Hlavka Award] 2021 for young academics
+* Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019 for emerging artists
 
 
 == Portfolio
@@ -126,14 +125,13 @@ image::community-art-service/2.jpg[,480]
 image::community-art-service/3.jpg[,480]
 image::community-art-service/4.jpg[,480]
 
-<<<
 
+<<<
 === 2021
 
 [truthify]
 
 ==== Thrutify
-
 Thrutify is a speculative video (7:38) about the eponymous startup that seeks to manipulate the perception of reality of future neural networks through the manipulation of open source datasets.
 Specifically, to map a dataset of images of Czech art under the general tag of art, with the aim of promoting Czech art as more detectable and known, and therefore as more arty than global art.
 Working with hyperbole and a slight ironic patriotism, the video exposes the serious topic of biased datasets and neural networks that have and will have impacts on our everyday lives.
@@ -164,7 +162,9 @@ Exploring the space of evil media it is a sarcastic comment on bot farms, but al
 In accordance with ideas of Arte Útil movement Tauto is functional and can be used to counter the forces of hybrid propaganda by its own means: spreading whatever its user wants.
 
 image::tauto/1.jpg[,600]
+image::tauto/2.jpg[,450]
 
+<<<
 === 2020
 
 [black-fly-day]
@@ -299,12 +299,8 @@ This code does not contain original pages which were searched nor the template t
 image::take-away/1.jpg[, 600, 600]
 .Take Away, 2017. Latter pages containing citations and links for the actual placement of comments on Facebook.
 image::take-away/2.jpg[, 1000, 1000]
-.Take Away, 2017. Installation solution on coridor.
-image::take-away/3.jpg[, 1000, 1000]
 .Take Away, 2017. Visitors reading the complaints.
 image::take-away/4.jpg[, 1000, 1000]
-.Take Away, 2017. Installation solution on table.
-image::take-away/5.jpg[, 1000, 1000]
 .Take Away, 2017. Negative reaction from far-right server: "Havel-like Cattle has gestapo office at Faculty of Fine Arts in Brno; the exhibitions of police informers spying on critics of islam."
 image::take-away/6.jpg[, 1000, 1000]
 .Take Away, 2017. Negative reaction from far-right server: "Czech multicultural fucks has office of gestapo on Faculty of Fine Arts in Brno."
@@ -386,7 +382,7 @@ image::national-league-cz/2.jpg[, 1000, 1000]
 .NarodniLiga.cz, 2016. Graph - Facebook pages with most comments.
 image::national-league-cz/3.jpg[, 1000, 1000]
 
-<<<
+
 === 2015
 
 [[rumours-to-midi]]
