@@ -10,7 +10,7 @@
 
 == CV
 
-MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
+MgA. Andreas Gajdosik. Born in June 1992. Lives in Prague, Czech Republic.
 
 === Education
 
@@ -37,7 +37,10 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 ** Digital Subconsciousness, gallery Art, Brno, CZ
 
 === Group Exhibitions
-
+* 2024
+** Good Job, Hraničář Gallery, Ústí nad Labem, CZ
+* 2023
+** Škvíra v Extázi, Sculpture Park Olšiny, Prague, CZ
 * 2022
 ** Can We Help You?, Gampa - City Gallery Pardubice, CZ
 * 2021
@@ -62,6 +65,7 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 ** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
 
 === Collectives
+* 2023-now: member of link:https://gobgob.org[GobGob] collective & label
 * 2019-2021: member of artistic group / fake company link:https://global-genocide.com[Global Genocide Inc.]
 * 2017-2019: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
 * 2015-2017: member of DIY Studio of Pavel Ondracka at FFA VUT (link:https://www.facebook.com/atelierPavlaOndracky?fref=ts[facebook])
@@ -103,11 +107,28 @@ MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
 * Award holder of link:http://www.hlavkovanadace.cz/cinnost_2021.php[Josef Hlavka Award] 2021 for young academics
 * Award holder of link:https://www.sjch.cz/en/jindrich-chalupecky-award/[Jindrich Chalupecky Award] 2019 for emerging artists
 
-
+<<<
 == Portfolio
 
-Latest release of this document can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf].
+Latest release of this document (under MIT License) can be seen and downloaded online at: link:https://github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf[github.com/agajdosi/art-portfolio/blob/master/portfolio.pdf]. Feel free to modify, copy or distribute it.
 
+=== 2023
+[mr-froggy]
+==== The Raft of the Frogman
+
+Carefree vacation on a warming lake turned into a nightmare for the unaware office worker, Mr Froggie (1-99).
+Performance on unstable raft. Various recycled materials. Wooden stick. 
+
+//image::mr-froggy/4.jpg[,300]
+//image::mr-froggy/3.jpg[,300]
+image::mr-froggy/5.jpg[,420]
+.The Raft of the Frogman, performance, 2023. Photos: Lukas Hlavin.
+image::mr-froggy/2.jpg[,420]
+
+
+
+
+<<<
 === 2022
 
 [community-art-service]
@@ -455,10 +476,9 @@ image::one-hour-of-work/2.jpg[selfie on crossroad, 1000]
 .One Hour of Work of Twenty Hours of Work (3CZK), B&W digital photography, 9x6cm, 2014
 image::one-hour-of-work/3.jpg[selfie on crossroad, 1000]
 
-== Document information
+== Document information & License
+This document, its source code and media content are licensed under MIT licence, feel free to use, copy, modify, merge, publish or distribute it freely.
 
-This document was generated automatically using Asciidoctor syntax and asciidoctor-pdf tool. 
-The document and its source code is licensed under MIT licence, feel free to use, copy, modify, merge, publish or distribute it freely.
 You can view the source code or report bugs at: https://github.com/agajdosi/art-portfolio.
-
+This document was generated automatically using Asciidoctor syntax and asciidoctor-pdf tool. 
 Thanks to the authors and commiters of Asciidoctor project: https://github.com/asciidoctor for their wonderful work.
